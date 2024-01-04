@@ -1,0 +1,22 @@
+header{
+    color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:50px 200px 50px 200px;
+}
+*
+{
+    margin: 0;
+}
+.learning
+{
+    margin: 200px;
+    width: 500px;
+    border: 20px solid blue;
+    padding: 10px;
+    box-shadow: 100px 50px black;
+}
+.serial{
+    margin: 50px 200px 50px 100px;
+    background-color: aqua;
+    width: 500px;
+}
